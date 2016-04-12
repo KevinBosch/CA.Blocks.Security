@@ -1,0 +1,1 @@
+nuget.exe pack CA.Blocks.Security.csproj -Prop Platform=AnyCPU
